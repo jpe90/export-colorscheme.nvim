@@ -47,3 +47,7 @@ require('export-colorscheme')
 # Motivation
 
 Vim has accumulated over a decade of colorschemes which include color information for highlighting lexical tokens. Smaller CLI programs which make use of lexical tokens (e.g. for syntax highlighting) often have far fewer colorschemes, and generating them by hand can be tedious. This project aims to make it easier to customize these programs.
+
+# Contributing
+
+Contributions are welcome! Feel free to submit a PR on [Github](https://github.com/jpe90/export-colorscheme.nvim) or a patch on [Sourcehut](https://git.sr.ht/~eskin/export-colortheme.nvim)
