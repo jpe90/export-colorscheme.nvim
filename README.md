@@ -40,6 +40,8 @@ require('export-colorscheme')
 - Hit `<Space>` followed by `<Tab>` to cycle through output options
 - Select an option with `<Return>`
 
+![ecs](https://user-images.githubusercontent.com/9307830/184863386-5c39403a-b45c-4647-91c5-1fd1e27425e8.png)
+
 # Motivation
 
 Vim has accumulated over a decade of colorschemes which include color information for highlighting lexical tokens. Smaller CLI programs which make use of lexical tokens (e.g. for syntax highlighting) often have far fewer colorschemes, and generating them by hand can be tedious. This project aims to make it easier to customize these programs.
