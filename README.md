@@ -6,6 +6,8 @@ The user is prompted to select a supported CLI program, and a colorscheme is gen
 
 This is alpha quality and you may need to tweak the generated colorscheme.
 
+https://user-images.githubusercontent.com/9307830/184928668-047162f5-1fee-409a-88b0-820a989c0164.mov
+
 ## Currently Supported 
 
 - [Vis](https://github.com/martanne/vis)
