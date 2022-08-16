@@ -6,7 +6,7 @@ The user is prompted to select a supported CLI program, and a colorscheme is gen
 
 This is alpha quality and you may need to tweak the generated colorscheme.
 
-https://user-images.githubusercontent.com/9307830/184928668-047162f5-1fee-409a-88b0-820a989c0164.mov
+![ecs-demo](https://user-images.githubusercontent.com/9307830/184966166-c783d086-5d08-43f4-8a16-d68806106b02.gif)
 
 ## Currently Supported 
 
