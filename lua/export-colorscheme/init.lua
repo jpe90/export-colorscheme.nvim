@@ -103,6 +103,7 @@ M.run = function(opts)
 	local ft_intp_tbl = template.make_interpolation_table(highlight_colors)
 	local subbed = util.interp(template.content,ft_intp_tbl)
 	write_to_file(filename,subbed)
+	print(filename .. ' successfully written.')
 end
 
 return M
