@@ -12,10 +12,10 @@ This is alpha quality and you may need to tweak the generated colorscheme.
 
 - [Vis](https://github.com/martanne/vis)
 - [Kakoune](https://github.com/mawww/kakoune)
+- [Clp](https://github.com/jpe90/clp)
 
 ## Planned
 
-- [Clp](https://github.com/jpe90/clp)
 - [Helix](https://helix-editor.com/)
 
 # Installation
