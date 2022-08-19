@@ -4,9 +4,7 @@ M.name = "clp"
 M.extension = "lua"
 M.content = [[
 local M = {}
-M.term = "truecolor"
 M.theme = {
-	-- set default to red in hex
 	['default'] = ~<Normal>,
 	['nothing'] = '',
 	['class'] = ~<Type>,
